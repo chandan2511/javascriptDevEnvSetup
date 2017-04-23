@@ -1,2 +1,2 @@
-# reactApp
-Demo app built using reactjs library
+# Javascript automated development environment setup
+This reporsitory contains javascript development environment setup boilerplate code.
